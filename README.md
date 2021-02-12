@@ -1,9 +1,13 @@
 # neural-style-pt
 
 Forked version of NSPT by bycloud
+
 video for reference: [video](https://youtu.be/Eq7sYxf3XLM)
+
 video tutorial for using NSPT like in the video above: [video](https://youtu.be/orWegmlAZC4) 
+
 colab link: [colab](https://colab.research.google.com/drive/1e9To5eO9SBn5ngCMGbDqoIM0AWja5LjR#offline=true&sandboxMode=true)
+
 
 This is a PyTorch implementation of the paper [A Neural Algorithm of Artistic Style](http://arxiv.org/abs/1508.06576)
 by Leon A. Gatys, Alexander S. Ecker, and Matthias Bethge. The code is based on Justin Johnson's [Neural-Style](https://github.com/jcjohnson/neural-style).
