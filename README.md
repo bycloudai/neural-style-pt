@@ -33,6 +33,9 @@ Google Drive
      └vgg19-d01eb7cb.pth
      └nin_imagenet.pth
 ```
+
+Checkpoints:
+
 [nyud-fcn32s-color-heavy.pth](https://drive.google.com/uc?export=download&id=1MKj6Dntzh7t45PxM4I0ixWaQtisAg9hy)
 
 [channel_pruning.pth](https://drive.google.com/uc?export=download&id=1aaNqJ5D2A-vev3IZFv6dSkovuA3XwYsq)
