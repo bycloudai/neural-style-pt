@@ -16,6 +16,35 @@ colab link:
 
 ----------------------------------------
 
+Installation notes:
+
+File structure
+```
+Google Drive
+ └NSPT
+   └style
+     └style1
+   └output
+   └input
+   └checkpoints
+     └nyud-fcn32s-color-heavy.pth
+     └channel_pruning.pth
+     └vgg16-00b39a1b.pth
+     └vgg19-d01eb7cb.pth
+     └nin_imagenet.pth
+```
+[nyud-fcn32s-color-heavy.pth](https://drive.google.com/uc?export=download&id=1MKj6Dntzh7t45PxM4I0ixWaQtisAg9hy)
+
+[channel_pruning.pth](https://drive.google.com/uc?export=download&id=1aaNqJ5D2A-vev3IZFv6dSkovuA3XwYsq)
+
+[vgg16-00b39a1b.pth](https://web.eecs.umich.edu/~justincj/models/vgg16-00b39a1b.pth)
+
+[vgg19-d01eb7cb.pth](https://web.eecs.umich.edu/~justincj/models/vgg19-d01eb7cb.pth)
+
+[nin_imagenet.pth](https://raw.githubusercontent.com/ProGamerGov/pytorch-nin/master/nin_imagenet.pth)
+
+----------------------------------------
+
 This is a PyTorch implementation of the paper [A Neural Algorithm of Artistic Style](http://arxiv.org/abs/1508.06576)
 by Leon A. Gatys, Alexander S. Ecker, and Matthias Bethge. The code is based on Justin Johnson's [Neural-Style](https://github.com/jcjohnson/neural-style).
 
